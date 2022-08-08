@@ -551,31 +551,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.bg-brightRed {
-  --tw-bg-opacity: 1;
-  background-color: hsl(12 88% 59% / var(--tw-bg-opacity));
-}
-
-.text-3xl {
-  font-size: 1.875rem;
-  line-height: 2.25rem;
-}
-
 .font-bold {
   font-weight: 700;
-}
-
-.text-brightRed {
-  --tw-text-opacity: 1;
-  color: hsl(12 88% 59% / var(--tw-text-opacity));
-}
-
-.text-darkBlue {
-  --tw-text-opacity: 1;
-  color: hsl(228 39% 23% / var(--tw-text-opacity));
-}
-
-.text-veryDarkBlue {
-  --tw-text-opacity: 1;
-  color: hsl(233 12% 13% / var(--tw-text-opacity));
 }
